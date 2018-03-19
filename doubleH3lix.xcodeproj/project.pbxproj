@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4FD6D8ED206063ED00A83439 /* DuctTap3Glyph.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FD6D8EC206063EC00A83439 /* DuctTap3Glyph.png */; };
+		4FD6D8EF2060649400A83439 /* DuctTap3Banner.png in Resources */ = {isa = PBXBuildFile; fileRef = 4FD6D8EE2060649200A83439 /* DuctTap3Banner.png */; };
+		4FD6D8F1206065C300A83439 /* newbg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4FD6D8F0206065C300A83439 /* newbg.jpg */; };
 		6848D100203CE91700A0FFE2 /* offsets.mm in Sources */ = {isa = PBXBuildFile; fileRef = 6848D0FD203CE91700A0FFE2 /* offsets.mm */; };
 		6848D101203CE91700A0FFE2 /* v0rtex.m in Sources */ = {isa = PBXBuildFile; fileRef = 6848D0FF203CE91700A0FFE2 /* v0rtex.m */; };
 		6848D104203CE93100A0FFE2 /* liboffsetfinder64.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6848D103203CE93100A0FFE2 /* liboffsetfinder64.a */; };
@@ -29,6 +32,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4FD6D8EC206063EC00A83439 /* DuctTap3Glyph.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DuctTap3Glyph.png; sourceTree = "<group>"; };
+		4FD6D8EE2060649200A83439 /* DuctTap3Banner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DuctTap3Banner.png; sourceTree = "<group>"; };
+		4FD6D8F0206065C300A83439 /* newbg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = newbg.jpg; sourceTree = "<group>"; };
 		6848D0FB203CE91700A0FFE2 /* common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = common.h; sourceTree = "<group>"; };
 		6848D0FC203CE91700A0FFE2 /* offsets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = offsets.h; sourceTree = "<group>"; };
 		6848D0FD203CE91700A0FFE2 /* offsets.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = offsets.mm; sourceTree = "<group>"; };
@@ -98,7 +104,10 @@
 				87149C6C204872DB009658CA /* Cydia-10.tar */,
 				875D130D203F4215007B798C /* launchctl */,
 				875D130C203F4214007B798C /* tar */,
+				4FD6D8EE2060649200A83439 /* DuctTap3Banner.png */,
 				875D1309203F41FA007B798C /* banner.png */,
+				4FD6D8F0206065C300A83439 /* newbg.jpg */,
+				4FD6D8EC206063EC00A83439 /* DuctTap3Glyph.png */,
 				87F9E9912039C51900C90C05 /* doubleH3lix */,
 				87F9E9902039C51900C90C05 /* Products */,
 				6848D102203CE93100A0FFE2 /* Frameworks */,
@@ -200,10 +209,13 @@
 				875D130F203F4215007B798C /* tar in Resources */,
 				87149C6D204872DB009658CA /* Cydia-10.tar in Resources */,
 				875D1310203F4215007B798C /* launchctl in Resources */,
+				4FD6D8F1206065C300A83439 /* newbg.jpg in Resources */,
+				4FD6D8EF2060649400A83439 /* DuctTap3Banner.png in Resources */,
 				875D130A203F41FA007B798C /* banner.png in Resources */,
 				872C2D6C203EE37600929D9E /* Main.storyboard in Resources */,
 				87EEF947203F188800663566 /* ui resources in Resources */,
 				8786D4FB203E12F900962200 /* LaunchScreen.storyboard in Resources */,
+				4FD6D8ED206063ED00A83439 /* DuctTap3Glyph.png in Resources */,
 				87F9E99C2039C51900C90C05 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
