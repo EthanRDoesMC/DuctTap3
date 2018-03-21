@@ -1,6 +1,8 @@
 # DuctTap3
 ### 64-bit 9.3.x with PhœnixNonce 
 
+[DuctTap3 No-Text Logo](DuctTap3Glyph.
+
 Tihmstar basically said that doubleh3lix could be modified to work on iOS 9 if you replaced v0rtex with PhœnixNonce. There was a hint of sarcasm in the instructions, mainly because this is easier said than done, but it’s a blueprint nevertheless. 
 
 
