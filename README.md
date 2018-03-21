@@ -22,3 +22,6 @@ DuctTap3 is for 64-bit 9.3.x devices (including 9.3.5). It’s kinda irrelevant 
 
 
 Testers wanted! Neither PsychoTea nor I have a 64-bit 9.3.x device. Don’t sacrifice your Pangu JB either if you’re on 9.3.3 or below. Chances are that I’ll have to go buy one. 
+
+
+![DuctTap3 Banner](DuctTap3Banner.png)
