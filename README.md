@@ -1,6 +1,6 @@
 # DuctTap3
 ### 64-bit 9.3.x with PhœnixNonce
-————————
+# 
 
 Tihmstar basically said that doubleh3lix could be modified to work on iOS 9 if you replaced v0rtex with PhœnixNonce. There was a hint of sarcasm in the instructions, mainly because this is easier said than done, but it’s a blueprint nevertheless. 
 
@@ -14,7 +14,7 @@ Everyone is invited to contribute, but since this is a community effort, **PLEAS
 I get dibs on UI stuff :P
 
 
-——————
+# 
 
 
 DuctTap3 is for 64-bit 9.3.x devices (including 9.3.5). It’s kinda irrelevant in the modern JB scene due to, y’know, no 64-bit devices having lost support yet, but again it’ll be a great learning experience for all involved. Practice makes perfect. 
